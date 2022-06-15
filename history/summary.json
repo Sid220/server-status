@@ -4,17 +4,19 @@
     "url": "https://vestal.tk",
     "icon": "https://favicons.githubusercontent.com/vestal.tk",
     "slug": "vestal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 494,
-    "timeDay": 375,
-    "timeWeek": 444,
-    "timeMonth": 494,
-    "timeYear": 494,
-    "dailyMinutesDown": {}
+    "time": 480,
+    "timeDay": 321,
+    "timeWeek": 422,
+    "timeMonth": 480,
+    "timeYear": 480,
+    "dailyMinutesDown": {
+      "2022-06-15": 0
+    }
   }
 ]
