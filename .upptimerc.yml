@@ -10,6 +10,8 @@ sites:
     expectedStatusCodes:
       - 200
       - 403
+  - name: Quotes API
+    url: https://quotes.api.vestal.to
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
