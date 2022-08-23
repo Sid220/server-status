@@ -16,7 +16,7 @@
     "timeMonth": 3930,
     "timeYear": 2538,
     "dailyMinutesDown": {
-      "2022-08-23": 148,
+      "2022-08-23": 157,
       "2022-08-22": 1440,
       "2022-08-21": 1440,
       "2022-08-20": 1440,
@@ -138,9 +138,9 @@
     "url": "https://quotes.api.vestal.tk",
     "icon": "https://favicons.githubusercontent.com/quotes.api.vestal.tk",
     "slug": "quotes-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.13%",
-    "uptimeDay": "98.18%",
+    "uptimeDay": "98.17%",
     "uptimeWeek": "96.91%",
     "uptimeMonth": "98.69%",
     "uptimeYear": "99.13%",
@@ -150,6 +150,7 @@
     "timeMonth": 1463,
     "timeYear": 1576,
     "dailyMinutesDown": {
+      "2022-08-23": 0,
       "2022-08-22": 26,
       "2022-08-19": 28,
       "2022-08-18": 96,
