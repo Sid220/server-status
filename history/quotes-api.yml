@@ -1,7 +1,7 @@
 url: https://quotes-api.vestal.tk
-status: down
-code: 530
-responseTime: 3270
-lastUpdated: 2023-01-11T22:00:38.667Z
+status: up
+code: 200
+responseTime: 303
+lastUpdated: 2023-01-11T22:23:13.746Z
 startTime: Thu Jun 30 2022 12:07:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
