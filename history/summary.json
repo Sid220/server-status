@@ -214,8 +214,8 @@
     "slug": "smart-display-pi-documentation",
     "status": "up",
     "uptime": "38.81%",
-    "uptimeDay": "0.38%",
-    "uptimeWeek": "0.05%",
+    "uptimeDay": "0.39%",
+    "uptimeWeek": "0.06%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "38.81%",
     "time": 970,
@@ -455,19 +455,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/vi.plios.tech.ico",
     "slug": "virtual-box-icons-for-html-documentation",
     "status": "up",
-    "uptime": "2.54%",
-    "uptimeDay": "2.54%",
-    "uptimeWeek": "2.54%",
-    "uptimeMonth": "2.54%",
-    "uptimeYear": "2.54%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 134,
     "timeDay": 134,
     "timeWeek": 134,
     "timeMonth": 134,
     "timeYear": 134,
-    "dailyMinutesDown": {
-      "2023-02-04": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "WinterWonderland",
