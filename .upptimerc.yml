@@ -6,7 +6,7 @@ sites:
   - name: Plios
     url: https://plios.tech
   - name: SmartDisplayPi Backend
-    url: https://backend.sdp.plios.tech
+    url: https://backend-sdp.plios.tech
     expectedStatusCodes:
       - 200
       - 403
@@ -26,6 +26,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://plios.tech/images/icon.svg
   name: Plios
+  css: ".logo div {display: none;}"
   navbar:
     - title: Home
       href: https://plios.tech
