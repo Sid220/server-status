@@ -3,26 +3,32 @@ owner: Sid220 # Your GitHub organization or username, where this repository live
 repo: server-status # The name of this repository
 
 sites:
-  - name: Vestal
-    url: https://vestal.tk
+  - name: Plios
+    url: https://plios.tech
   - name: SmartDisplayPi Backend
-    url: https://backend.sdp.vestal.tk
+    url: https://backend.sdp.plios.tech
     expectedStatusCodes:
       - 200
       - 403
   - name: SmartDisplayPi Documentation
-    url: https://docs.sdp.vestal.tk
+    url: https://docs-sdp.plios.tech
   - name: Quotes API
-    url: https://quotes-api.vestal.tk
+    url: https://quotes-api.plios.tech
+  - name: VirtualBox Icons for HTML Documentation
+    url: https://vi.plios.tech
+  - name: WinterWonderland
+    url: https://winterwonderland.plios.tech
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.vestal.tk
+  cname: status.plios.tech
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Vestal
+  name: Plios
   navbar:
+    - title: Home
+      href: https://plios.tech
     - title: Status
       href: /
 
