@@ -1,7 +1,7 @@
 url: https://quotes-api.plios.tech
-status: up
-code: 200
-responseTime: 2375
-lastUpdated: 2023-10-17T16:24:51.809Z
+status: down
+code: 530
+responseTime: 3059
+lastUpdated: 2023-10-17T17:46:55.419Z
 startTime: 2022-06-30T12:07:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
