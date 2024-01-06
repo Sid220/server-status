@@ -3,33 +3,24 @@ owner: Sid220 # Your GitHub organization or username, where this repository live
 repo: server-status # The name of this repository
 
 sites:
-  - name: Plios
-    url: https://plios.tech
-  - name: SmartDisplayPi Backend
-    url: https://backend-sdp.plios.tech
-    expectedStatusCodes:
-      - 200
-      - 403
-  - name: SmartDisplayPi Documentation
-    url: https://docs-sdp.plios.tech
-  - name: Quotes API
-    url: https://quotes-api.plios.tech
+  - name: Portfolio
+    url: https://sidtrz.com
   - name: VirtualBox Icons for HTML Documentation
-    url: https://vi.plios.tech
+    url: https://vi.sidtrz.com
   - name: WinterWonderland
-    url: https://winterwonderland.plios.tech
+    url: https://winterwonderland.sidtrz.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.plios.tech
   # baseUrl: /your-repo-name
-  logoUrl: https://plios.tech/images/icon.svg
+  # logoUrl: https://plios.tech/images/icon.svg
   name: Plios
   css: ".logo div {display: none;}"
   navbar:
     - title: Home
-      href: https://plios.tech
+      href: https://sidtrz.com
     - title: Status
       href: /
 
