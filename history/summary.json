@@ -4,18 +4,19 @@
     "url": "https://sidtrz.com",
     "icon": "https://icons.duckduckgo.com/ip3/sidtrz.com.ico",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "96.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.15%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "98.14%",
     "uptimeMonth": "99.12%",
     "uptimeYear": "96.52%",
-    "time": 1593,
-    "timeDay": 2282,
-    "timeWeek": 1418,
-    "timeMonth": 2278,
-    "timeYear": 1593,
+    "time": 1601,
+    "timeDay": 2684,
+    "timeWeek": 1498,
+    "timeMonth": 2290,
+    "timeYear": 1601,
     "dailyMinutesDown": {
+      "2024-04-10": 0,
       "2024-04-08": 17,
       "2024-04-04": 124,
       "2024-04-03": 46,
@@ -176,8 +177,7 @@
       "2023-05-11": 1440,
       "2023-05-10": 1440,
       "2023-05-09": 1440,
-      "2023-05-08": 244,
-      "2023-04-11": 18
+      "2023-05-08": 244
     }
   }
 ]
