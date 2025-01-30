@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sidtrz.com.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "65.43%",
+    "uptime": "65.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "63.25%",
-    "time": 1824,
-    "timeDay": 98,
-    "timeWeek": 175,
-    "timeMonth": 172,
+    "time": 1821,
+    "timeDay": 132,
+    "timeWeek": 154,
+    "timeMonth": 173,
     "timeYear": 1889,
     "dailyMinutesDown": {
       "2024-11-12": 37,
@@ -183,8 +183,7 @@
       "2024-02-04": 53,
       "2024-02-03": 1006,
       "2024-02-02": 1440,
-      "2024-02-01": 1440,
-      "2024-01-31": 156
+      "2024-02-01": 1440
     }
   },
   {
@@ -193,15 +192,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/vi.sidtrz.com.ico",
     "slug": "virtual-box-icons-for-html-documentation",
     "status": "up",
-    "uptime": "97.54%",
+    "uptime": "97.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 187,
     "timeDay": 152,
-    "timeWeek": 222,
-    "timeMonth": 194,
+    "timeWeek": 195,
+    "timeMonth": 193,
     "timeYear": 204,
     "dailyMinutesDown": {}
   },
@@ -217,8 +216,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 163,
-    "timeDay": 96,
-    "timeWeek": 168,
+    "timeDay": 131,
+    "timeWeek": 154,
     "timeMonth": 170,
     "timeYear": 163,
     "dailyMinutesDown": {
@@ -231,15 +230,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/winterwonderland.sidtrz.com.ico",
     "slug": "winter-wonderland",
     "status": "up",
-    "uptime": "76.33%",
+    "uptime": "76.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "63.28%",
     "time": 1511,
-    "timeDay": 144,
-    "timeWeek": 206,
-    "timeMonth": 207,
+    "timeDay": 172,
+    "timeWeek": 180,
+    "timeMonth": 208,
     "timeYear": 1689,
     "dailyMinutesDown": {
       "2024-11-12": 34,
@@ -413,8 +412,7 @@
       "2024-02-04": 82,
       "2024-02-03": 1007,
       "2024-02-02": 1440,
-      "2024-02-01": 1440,
-      "2024-01-31": 156
+      "2024-02-01": 1440
     }
   }
 ]
