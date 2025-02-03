@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sidtrz.com.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "65.78%",
+    "uptime": "65.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "63.57%",
-    "time": 1814,
-    "timeDay": 284,
-    "timeWeek": 193,
-    "timeMonth": 182,
-    "timeYear": 1861,
+    "uptimeYear": "63.84%",
+    "time": 1811,
+    "timeDay": 221,
+    "timeWeek": 211,
+    "timeMonth": 184,
+    "timeYear": 1860,
     "dailyMinutesDown": {
       "2024-11-12": 37,
       "2024-11-05": 1250,
@@ -179,8 +179,7 @@
       "2024-03-05": 30,
       "2024-03-02": 124,
       "2024-02-21": 20,
-      "2024-02-13": 18,
-      "2024-02-04": 53
+      "2024-02-13": 18
     }
   },
   {
@@ -194,10 +193,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 187,
-    "timeDay": 289,
-    "timeWeek": 215,
-    "timeMonth": 202,
+    "time": 188,
+    "timeDay": 413,
+    "timeWeek": 248,
+    "timeMonth": 212,
     "timeYear": 205,
     "dailyMinutesDown": {}
   },
@@ -212,11 +211,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 166,
-    "timeDay": 234,
-    "timeWeek": 178,
-    "timeMonth": 174,
-    "timeYear": 166,
+    "time": 167,
+    "timeDay": 248,
+    "timeWeek": 199,
+    "timeMonth": 180,
+    "timeYear": 167,
     "dailyMinutesDown": {
       "2024-11-12": 35
     }
@@ -227,15 +226,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/winterwonderland.sidtrz.com.ico",
     "slug": "winter-wonderland",
     "status": "up",
-    "uptime": "76.46%",
+    "uptime": "76.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "63.61%",
+    "uptimeYear": "63.88%",
     "time": 1511,
-    "timeDay": 453,
-    "timeWeek": 251,
-    "timeMonth": 218,
+    "timeDay": 369,
+    "timeWeek": 284,
+    "timeMonth": 227,
     "timeYear": 1673,
     "dailyMinutesDown": {
       "2024-11-12": 34,
@@ -405,8 +404,7 @@
       "2024-03-03": 35,
       "2024-03-02": 21,
       "2024-02-28": 26,
-      "2024-02-13": 18,
-      "2024-02-04": 82
+      "2024-02-13": 18
     }
   }
 ]
