@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sidtrz.com.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "71.09%",
+    "uptime": "71.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "64.15%",
-    "time": 1647,
-    "timeDay": 187,
-    "timeWeek": 183,
-    "timeMonth": 181,
-    "timeYear": 1676,
+    "time": 1643,
+    "timeDay": 285,
+    "timeWeek": 189,
+    "timeMonth": 186,
+    "timeYear": 1675,
     "dailyMinutesDown": {
       "2024-11-12": 37,
       "2024-11-05": 1250,
@@ -167,8 +167,7 @@
       "2024-05-09": 19,
       "2024-05-04": 79,
       "2024-04-28": 20,
-      "2024-04-26": 38,
-      "2024-04-16": 26
+      "2024-04-26": 38
     }
   },
   {
@@ -183,10 +182,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 200,
-    "timeDay": 194,
-    "timeWeek": 222,
+    "timeDay": 262,
+    "timeWeek": 215,
     "timeMonth": 224,
-    "timeYear": 207,
+    "timeYear": 208,
     "dailyMinutesDown": {}
   },
   {
@@ -201,9 +200,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 166,
-    "timeDay": 172,
-    "timeWeek": 192,
-    "timeMonth": 178,
+    "timeDay": 249,
+    "timeWeek": 198,
+    "timeMonth": 184,
     "timeYear": 166,
     "dailyMinutesDown": {
       "2024-11-12": 35
@@ -215,15 +214,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/winterwonderland.sidtrz.com.ico",
     "slug": "winter-wonderland",
     "status": "up",
-    "uptime": "78.57%",
+    "uptime": "78.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "64.18%",
-    "time": 1556,
-    "timeDay": 213,
-    "timeWeek": 270,
-    "timeMonth": 235,
+    "time": 1552,
+    "timeDay": 328,
+    "timeWeek": 261,
+    "timeMonth": 240,
     "timeYear": 1559,
     "dailyMinutesDown": {
       "2024-11-12": 34,
@@ -378,8 +377,7 @@
       "2024-05-05": 17,
       "2024-05-04": 69,
       "2024-05-02": 36,
-      "2024-04-23": 25,
-      "2024-04-16": 37
+      "2024-04-23": 25
     }
   }
 ]
