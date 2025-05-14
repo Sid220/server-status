@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sidtrz.com.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "72.73%",
+    "uptime": "72.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "64.19%",
     "time": 1674,
-    "timeDay": 140,
-    "timeWeek": 227,
-    "timeMonth": 196,
+    "timeDay": 99,
+    "timeWeek": 220,
+    "timeMonth": 195,
     "timeYear": 1622,
     "dailyMinutesDown": {
       "2024-11-12": 37,
@@ -162,8 +162,7 @@
       "2024-05-24": 20,
       "2024-05-23": 20,
       "2024-05-21": 19,
-      "2024-05-20": 79,
-      "2024-05-14": 142
+      "2024-05-20": 79
     }
   },
   {
@@ -178,9 +177,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 146,
-    "timeWeek": 306,
-    "timeMonth": 217,
+    "timeDay": 245,
+    "timeWeek": 290,
+    "timeMonth": 218,
     "timeYear": 199,
     "dailyMinutesDown": {}
   },
@@ -196,9 +195,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 170,
-    "timeDay": 78,
-    "timeWeek": 203,
-    "timeMonth": 195,
+    "timeDay": 148,
+    "timeWeek": 207,
+    "timeMonth": 193,
     "timeYear": 170,
     "dailyMinutesDown": {
       "2024-11-12": 35
@@ -210,16 +209,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/winterwonderland.sidtrz.com.ico",
     "slug": "winter-wonderland",
     "status": "up",
-    "uptime": "79.30%",
+    "uptime": "79.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "64.22%",
-    "time": 1505,
-    "timeDay": 120,
+    "time": 1504,
+    "timeDay": 170,
     "timeWeek": 240,
-    "timeMonth": 234,
-    "timeYear": 1504,
+    "timeMonth": 231,
+    "timeYear": 1503,
     "dailyMinutesDown": {
       "2024-11-12": 34,
       "2024-11-05": 1125,
@@ -368,8 +367,7 @@
       "2024-05-27": 17,
       "2024-05-23": 22,
       "2024-05-20": 37,
-      "2024-05-15": 19,
-      "2024-05-14": 55
+      "2024-05-15": 19
     }
   }
 ]
