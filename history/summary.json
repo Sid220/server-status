@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/sidtrz.com.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "73.59%",
+    "uptime": "73.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "64.25%",
-    "time": 1650,
-    "timeDay": 200,
-    "timeWeek": 211,
+    "time": 1648,
+    "timeDay": 152,
+    "timeWeek": 197,
     "timeMonth": 191,
     "timeYear": 1422,
     "dailyMinutesDown": {
@@ -156,8 +156,7 @@
       "2024-06-08": 74,
       "2024-06-06": 22,
       "2024-06-04": 42,
-      "2024-06-03": 46,
-      "2024-05-30": 55
+      "2024-06-03": 46
     }
   },
   {
@@ -172,10 +171,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 206,
-    "timeDay": 318,
-    "timeWeek": 240,
-    "timeMonth": 227,
-    "timeYear": 201,
+    "timeDay": 137,
+    "timeWeek": 229,
+    "timeMonth": 226,
+    "timeYear": 200,
     "dailyMinutesDown": {}
   },
   {
@@ -190,9 +189,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 171,
-    "timeDay": 233,
-    "timeWeek": 227,
-    "timeMonth": 179,
+    "timeDay": 67,
+    "timeWeek": 194,
+    "timeMonth": 174,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2024-11-12": 35
@@ -204,16 +203,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/winterwonderland.sidtrz.com.ico",
     "slug": "winter-wonderland",
     "status": "up",
-    "uptime": "79.69%",
+    "uptime": "79.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "64.27%",
     "time": 1483,
-    "timeDay": 281,
-    "timeWeek": 270,
-    "timeMonth": 221,
-    "timeYear": 1418,
+    "timeDay": 73,
+    "timeWeek": 228,
+    "timeMonth": 216,
+    "timeYear": 1417,
     "dailyMinutesDown": {
       "2024-11-12": 34,
       "2024-11-05": 1125,
@@ -355,8 +354,7 @@
       "2024-06-09": 20,
       "2024-06-08": 18,
       "2024-06-06": 22,
-      "2024-06-03": 49,
-      "2024-05-30": 55
+      "2024-06-03": 49
     }
   }
 ]
