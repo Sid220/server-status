@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sidtrz.com.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "74.10%",
+    "uptime": "74.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "64.28%",
-    "time": 1592,
-    "timeDay": 156,
-    "timeWeek": 200,
-    "timeMonth": 202,
-    "timeYear": 1400,
+    "uptimeYear": "64.29%",
+    "time": 1547,
+    "timeDay": 178,
+    "timeWeek": 191,
+    "timeMonth": 197,
+    "timeYear": 1394,
     "dailyMinutesDown": {
       "2024-11-12": 37,
       "2024-11-05": 1250,
@@ -151,8 +151,7 @@
       "2024-06-18": 57,
       "2024-06-15": 41,
       "2024-06-12": 21,
-      "2024-06-10": 45,
-      "2024-06-09": 20
+      "2024-06-10": 45
     }
   },
   {
@@ -166,10 +165,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 207,
-    "timeDay": 218,
-    "timeWeek": 228,
-    "timeMonth": 240,
+    "time": 208,
+    "timeDay": 256,
+    "timeWeek": 203,
+    "timeMonth": 237,
     "timeYear": 203,
     "dailyMinutesDown": {}
   },
@@ -185,9 +184,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 171,
-    "timeDay": 158,
-    "timeWeek": 185,
-    "timeMonth": 187,
+    "timeDay": 138,
+    "timeWeek": 172,
+    "timeMonth": 182,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2024-11-12": 35
@@ -199,16 +198,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/winterwonderland.sidtrz.com.ico",
     "slug": "winter-wonderland",
     "status": "up",
-    "uptime": "79.93%",
+    "uptime": "79.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "64.30%",
-    "time": 1461,
-    "timeDay": 129,
-    "timeWeek": 229,
-    "timeMonth": 228,
-    "timeYear": 1396,
+    "time": 1456,
+    "timeDay": 284,
+    "timeWeek": 226,
+    "timeMonth": 226,
+    "timeYear": 1370,
     "dailyMinutesDown": {
       "2024-11-12": 34,
       "2024-11-05": 1125,
@@ -346,8 +345,7 @@
       "2024-06-18": 28,
       "2024-06-15": 51,
       "2024-06-11": 20,
-      "2024-06-10": 140,
-      "2024-06-09": 20
+      "2024-06-10": 140
     }
   }
 ]
