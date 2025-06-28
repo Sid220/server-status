@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sidtrz.com.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "75.02%",
+    "uptime": "75.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "64.33%",
-    "time": 1456,
-    "timeDay": 293,
-    "timeWeek": 212,
+    "time": 1450,
+    "timeDay": 263,
+    "timeWeek": 225,
     "timeMonth": 196,
-    "timeYear": 1295,
+    "timeYear": 1296,
     "dailyMinutesDown": {
       "2024-11-12": 37,
       "2024-11-05": 1250,
@@ -146,8 +146,7 @@
       "2024-07-02": 1440,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
-      "2024-06-29": 1440,
-      "2024-06-28": 450
+      "2024-06-29": 1440
     }
   },
   {
@@ -162,10 +161,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 211,
-    "timeDay": 212,
-    "timeWeek": 266,
+    "timeDay": 322,
+    "timeWeek": 283,
     "timeMonth": 254,
-    "timeYear": 210,
+    "timeYear": 211,
     "dailyMinutesDown": {}
   },
   {
@@ -180,9 +179,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 173,
-    "timeDay": 246,
-    "timeWeek": 206,
-    "timeMonth": 188,
+    "timeDay": 277,
+    "timeWeek": 226,
+    "timeMonth": 190,
     "timeYear": 173,
     "dailyMinutesDown": {
       "2024-11-12": 35
@@ -194,15 +193,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/winterwonderland.sidtrz.com.ico",
     "slug": "winter-wonderland",
     "status": "up",
-    "uptime": "80.37%",
+    "uptime": "80.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "64.35%",
-    "time": 1372,
-    "timeDay": 352,
-    "timeWeek": 265,
-    "timeMonth": 237,
+    "time": 1371,
+    "timeDay": 420,
+    "timeWeek": 296,
+    "timeMonth": 240,
     "timeYear": 1279,
     "dailyMinutesDown": {
       "2024-11-12": 34,
@@ -335,8 +334,7 @@
       "2024-07-02": 1440,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
-      "2024-06-29": 1440,
-      "2024-06-28": 450
+      "2024-06-29": 1440
     }
   }
 ]
