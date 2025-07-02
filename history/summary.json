@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sidtrz.com.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "75.20%",
+    "uptime": "75.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "64.99%",
-    "time": 1447,
-    "timeDay": 154,
-    "timeWeek": 205,
-    "timeMonth": 190,
-    "timeYear": 1266,
+    "uptimeYear": "65.26%",
+    "time": 1445,
+    "timeDay": 108,
+    "timeWeek": 187,
+    "timeMonth": 185,
+    "timeYear": 1257,
     "dailyMinutesDown": {
       "2024-11-12": 37,
       "2024-11-05": 1250,
@@ -142,8 +142,7 @@
       "2024-07-06": 1440,
       "2024-07-05": 1440,
       "2024-07-04": 1440,
-      "2024-07-03": 1440,
-      "2024-07-02": 1440
+      "2024-07-03": 1440
     }
   },
   {
@@ -158,9 +157,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 211,
-    "timeDay": 121,
-    "timeWeek": 252,
-    "timeMonth": 250,
+    "timeDay": 115,
+    "timeWeek": 223,
+    "timeMonth": 240,
     "timeYear": 211,
     "dailyMinutesDown": {}
   },
@@ -176,9 +175,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 173,
-    "timeDay": 103,
-    "timeWeek": 208,
-    "timeMonth": 186,
+    "timeDay": 114,
+    "timeWeek": 187,
+    "timeMonth": 183,
     "timeYear": 173,
     "dailyMinutesDown": {
       "2024-11-12": 35
@@ -190,16 +189,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/winterwonderland.sidtrz.com.ico",
     "slug": "winter-wonderland",
     "status": "up",
-    "uptime": "80.46%",
+    "uptime": "80.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "65.01%",
-    "time": 1359,
-    "timeDay": 109,
-    "timeWeek": 266,
-    "timeMonth": 237,
-    "timeYear": 1250,
+    "uptimeYear": "65.28%",
+    "time": 1358,
+    "timeDay": 134,
+    "timeWeek": 247,
+    "timeMonth": 232,
+    "timeYear": 1244,
     "dailyMinutesDown": {
       "2024-11-12": 34,
       "2024-11-05": 1125,
@@ -327,8 +326,7 @@
       "2024-07-06": 1440,
       "2024-07-05": 1440,
       "2024-07-04": 1440,
-      "2024-07-03": 1440,
-      "2024-07-02": 1440
+      "2024-07-03": 1440
     }
   }
 ]
