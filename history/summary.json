@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sidtrz.com.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "76.59%",
+    "uptime": "76.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "73.75%",
-    "time": 1362,
-    "timeDay": 284,
-    "timeWeek": 224,
-    "timeMonth": 202,
-    "timeYear": 995,
+    "uptimeYear": "74.03%",
+    "time": 1363,
+    "timeDay": 271,
+    "timeWeek": 241,
+    "timeMonth": 206,
+    "timeYear": 987,
     "dailyMinutesDown": {
       "2024-11-12": 37,
       "2024-11-05": 1250,
@@ -110,8 +110,7 @@
       "2024-08-07": 1440,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
-      "2024-08-04": 1440,
-      "2024-08-03": 1440
+      "2024-08-04": 1440
     }
   },
   {
@@ -126,9 +125,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 215,
-    "timeDay": 318,
-    "timeWeek": 265,
-    "timeMonth": 237,
+    "timeDay": 275,
+    "timeWeek": 283,
+    "timeMonth": 239,
     "timeYear": 215,
     "dailyMinutesDown": {}
   },
@@ -143,11 +142,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 176,
-    "timeDay": 349,
-    "timeWeek": 221,
-    "timeMonth": 202,
-    "timeYear": 176,
+    "time": 177,
+    "timeDay": 505,
+    "timeWeek": 267,
+    "timeMonth": 213,
+    "timeYear": 177,
     "dailyMinutesDown": {
       "2024-11-12": 35
     }
@@ -158,16 +157,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/winterwonderland.sidtrz.com.ico",
     "slug": "winter-wonderland",
     "status": "up",
-    "uptime": "81.14%",
+    "uptime": "81.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "73.76%",
-    "time": 1267,
-    "timeDay": 284,
-    "timeWeek": 254,
-    "timeMonth": 284,
-    "timeYear": 1005,
+    "uptimeYear": "74.04%",
+    "time": 1262,
+    "timeDay": 336,
+    "timeWeek": 279,
+    "timeMonth": 288,
+    "timeYear": 998,
     "dailyMinutesDown": {
       "2025-07-19": 83,
       "2024-11-12": 34,
@@ -264,8 +263,7 @@
       "2024-08-07": 1440,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
-      "2024-08-04": 1440,
-      "2024-08-03": 1440
+      "2024-08-04": 1440
     }
   }
 ]
