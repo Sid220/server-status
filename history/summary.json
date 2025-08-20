@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sidtrz.com.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "77.26%",
+    "uptime": "77.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "78.41%",
+    "uptimeYear": "78.68%",
     "time": 1220,
-    "timeDay": 473,
-    "timeWeek": 289,
-    "timeMonth": 225,
-    "timeYear": 863,
+    "timeDay": 151,
+    "timeWeek": 255,
+    "timeMonth": 224,
+    "timeYear": 855,
     "dailyMinutesDown": {
       "2024-11-12": 37,
       "2024-11-05": 1250,
@@ -93,8 +93,7 @@
       "2024-08-24": 1440,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
-      "2024-08-21": 1440,
-      "2024-08-20": 1440
+      "2024-08-21": 1440
     }
   },
   {
@@ -108,10 +107,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 196,
-    "timeWeek": 208,
-    "timeMonth": 227,
+    "time": 212,
+    "timeDay": 159,
+    "timeWeek": 199,
+    "timeMonth": 226,
     "timeYear": 216,
     "dailyMinutesDown": {}
   },
@@ -127,9 +126,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 178,
-    "timeDay": 124,
-    "timeWeek": 208,
-    "timeMonth": 207,
+    "timeDay": 143,
+    "timeWeek": 180,
+    "timeMonth": 206,
     "timeYear": 178,
     "dailyMinutesDown": {
       "2024-11-12": 35
@@ -141,16 +140,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/winterwonderland.sidtrz.com.ico",
     "slug": "winter-wonderland",
     "status": "up",
-    "uptime": "81.50%",
+    "uptime": "81.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "78.40%",
-    "time": 1213,
-    "timeDay": 180,
-    "timeWeek": 213,
-    "timeMonth": 272,
-    "timeYear": 874,
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "78.68%",
+    "time": 1212,
+    "timeDay": 173,
+    "timeWeek": 175,
+    "timeMonth": 228,
+    "timeYear": 867,
     "dailyMinutesDown": {
       "2025-08-06": 63,
       "2025-07-19": 83,
@@ -231,8 +230,7 @@
       "2024-08-24": 1440,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
-      "2024-08-21": 1440,
-      "2024-08-20": 1440
+      "2024-08-21": 1440
     }
   }
 ]
