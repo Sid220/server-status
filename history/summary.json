@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sidtrz.com.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "77.38%",
+    "uptime": "77.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "79.23%",
-    "time": 1221,
-    "timeDay": 555,
-    "timeWeek": 336,
-    "timeMonth": 255,
-    "timeYear": 841,
+    "uptimeYear": "79.50%",
+    "time": 1216,
+    "timeDay": 299,
+    "timeWeek": 357,
+    "timeMonth": 256,
+    "timeYear": 833,
     "dailyMinutesDown": {
       "2024-11-12": 37,
       "2024-11-05": 1250,
@@ -90,8 +90,7 @@
       "2024-08-27": 1440,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
-      "2024-08-24": 1440,
-      "2024-08-23": 1440
+      "2024-08-24": 1440
     }
   },
   {
@@ -100,15 +99,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/vi.sidtrz.com.ico",
     "slug": "virtual-box-icons-for-html-documentation",
     "status": "up",
-    "uptime": "98.08%",
+    "uptime": "98.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 149,
-    "timeWeek": 201,
-    "timeMonth": 230,
+    "timeDay": 297,
+    "timeWeek": 215,
+    "timeMonth": 231,
     "timeYear": 216,
     "dailyMinutesDown": {}
   },
@@ -123,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 181,
-    "timeDay": 562,
-    "timeWeek": 303,
-    "timeMonth": 237,
-    "timeYear": 181,
+    "time": 183,
+    "timeDay": 796,
+    "timeWeek": 382,
+    "timeMonth": 252,
+    "timeYear": 183,
     "dailyMinutesDown": {
       "2024-11-12": 35
     }
@@ -138,16 +137,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/winterwonderland.sidtrz.com.ico",
     "slug": "winter-wonderland",
     "status": "up",
-    "uptime": "81.56%",
+    "uptime": "81.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "79.23%",
-    "time": 1215,
-    "timeDay": 750,
-    "timeWeek": 373,
-    "timeMonth": 275,
-    "timeYear": 854,
+    "uptimeYear": "79.50%",
+    "time": 1216,
+    "timeDay": 945,
+    "timeWeek": 478,
+    "timeMonth": 294,
+    "timeYear": 848,
     "dailyMinutesDown": {
       "2025-08-06": 63,
       "2025-07-19": 83,
@@ -225,8 +224,7 @@
       "2024-08-27": 1440,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
-      "2024-08-24": 1440,
-      "2024-08-23": 1440
+      "2024-08-24": 1440
     }
   }
 ]
