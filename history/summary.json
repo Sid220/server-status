@@ -6,17 +6,16 @@
     "slug": "portfolio",
     "status": "up",
     "uptime": "78.89%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "90.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "90.98%",
     "time": 1096,
     "timeDay": 62,
     "timeWeek": 169,
     "timeMonth": 202,
     "timeYear": 479,
     "dailyMinutesDown": {
-      "2025-10-03": 5,
       "2025-09-23": 154,
       "2024-11-12": 37,
       "2024-11-05": 1250,
@@ -50,8 +49,7 @@
       "2024-10-08": 1440,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
-      "2024-10-05": 1440,
-      "2024-10-04": 1440
+      "2024-10-05": 1440
     }
   },
   {
@@ -99,11 +97,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/winterwonderland.sidtrz.com.ico",
     "slug": "winter-wonderland",
     "status": "up",
-    "uptime": "82.37%",
+    "uptime": "82.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
-    "uptimeYear": "90.95%",
+    "uptimeYear": "90.98%",
     "time": 1090,
     "timeDay": 5508,
     "timeWeek": 998,
@@ -145,8 +143,7 @@
       "2024-10-08": 1440,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
-      "2024-10-05": 1440,
-      "2024-10-04": 1440
+      "2024-10-05": 1440
     }
   }
 ]
