@@ -5,24 +5,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/sidtrz.com.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "79.75%",
+    "uptime": "79.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.38%",
-    "time": 1018,
-    "timeDay": 272,
-    "timeWeek": 215,
-    "timeMonth": 190,
-    "timeYear": 234,
+    "uptimeYear": "98.65%",
+    "time": 1017,
+    "timeDay": 110,
+    "timeWeek": 206,
+    "timeMonth": 191,
+    "timeYear": 226,
     "dailyMinutesDown": {
       "2025-09-23": 154,
       "2024-11-12": 37,
       "2024-11-05": 1250,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
-      "2024-11-02": 1440,
-      "2024-11-01": 1440
+      "2024-11-02": 1440
     }
   },
   {
@@ -37,9 +36,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 353,
-    "timeWeek": 266,
-    "timeMonth": 257,
+    "timeDay": 229,
+    "timeWeek": 269,
+    "timeMonth": 258,
     "timeYear": 224,
     "dailyMinutesDown": {}
   },
@@ -55,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 186,
-    "timeDay": 283,
-    "timeWeek": 213,
-    "timeMonth": 182,
+    "timeDay": 199,
+    "timeWeek": 229,
+    "timeMonth": 187,
     "timeYear": 186,
     "dailyMinutesDown": {
       "2025-09-23": 153,
@@ -70,16 +69,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/winterwonderland.sidtrz.com.ico",
     "slug": "winter-wonderland",
     "status": "up",
-    "uptime": "82.85%",
+    "uptime": "82.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.38%",
-    "time": 1013,
-    "timeDay": 318,
-    "timeWeek": 231,
-    "timeMonth": 597,
-    "timeYear": 307,
+    "uptimeYear": "98.65%",
+    "time": 1007,
+    "timeDay": 192,
+    "timeWeek": 237,
+    "timeMonth": 598,
+    "timeYear": 299,
     "dailyMinutesDown": {
       "2025-09-23": 151,
       "2025-08-06": 63,
@@ -88,8 +87,7 @@
       "2024-11-05": 1125,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
-      "2024-11-02": 1440,
-      "2024-11-01": 1440
+      "2024-11-02": 1440
     }
   }
 ]
