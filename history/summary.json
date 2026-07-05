@@ -67,17 +67,17 @@
     "url": "https://winterwonderland.sidtrz.com",
     "icon": "https://icons.duckduckgo.com/ip3/winterwonderland.sidtrz.com.ico",
     "slug": "winter-wonderland",
-    "status": "down",
-    "uptime": "86.80%",
-    "uptimeDay": "10.66%",
+    "status": "up",
+    "uptime": "86.79%",
+    "uptimeDay": "10.67%",
     "uptimeWeek": "55.55%",
-    "uptimeMonth": "82.24%",
-    "uptimeYear": "95.49%",
-    "time": 2116,
-    "timeDay": 57653,
-    "timeWeek": 35697,
-    "timeMonth": 13775,
-    "timeYear": 2951,
+    "uptimeMonth": "82.09%",
+    "uptimeYear": "95.48%",
+    "time": 2208,
+    "timeDay": 55306,
+    "timeWeek": 36940,
+    "timeMonth": 14858,
+    "timeYear": 3075,
     "dailyMinutesDown": {
       "2025-07-19": 83,
       "2025-08-06": 63,
@@ -108,7 +108,7 @@
       "2026-07-03": 1267,
       "2026-07-02": 899,
       "2026-07-04": 1049,
-      "2026-07-05": 956
+      "2026-07-05": 1022
     }
   }
 ]
