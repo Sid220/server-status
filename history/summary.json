@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sidtrz.com.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "85.51%",
+    "uptime": "85.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -67,17 +67,17 @@
     "url": "https://winterwonderland.sidtrz.com",
     "icon": "https://icons.duckduckgo.com/ip3/winterwonderland.sidtrz.com.ico",
     "slug": "winter-wonderland",
-    "status": "down",
-    "uptime": "86.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "81.33%",
-    "uptimeYear": "95.43%",
-    "time": 2224,
-    "timeDay": 138,
-    "timeWeek": 253,
-    "timeMonth": 14938,
-    "timeYear": 3086,
+    "status": "up",
+    "uptime": "86.97%",
+    "uptimeDay": "68.64%",
+    "uptimeWeek": "95.52%",
+    "uptimeMonth": "80.30%",
+    "uptimeYear": "95.35%",
+    "time": 2319,
+    "timeDay": 26296,
+    "timeWeek": 6778,
+    "timeMonth": 16010,
+    "timeYear": 3214,
     "dailyMinutesDown": {
       "2025-08-06": 63,
       "2025-09-23": 151,
@@ -109,7 +109,7 @@
       "2026-07-04": 1049,
       "2026-07-05": 1267,
       "2026-07-06": 88,
-      "2026-07-24": 0
+      "2026-07-24": 452
     }
   }
 ]
