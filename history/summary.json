@@ -138,19 +138,19 @@
     "url": "https://git.sidtrz.com/",
     "icon": "https://icons.duckduckgo.com/ip3/git.sidtrz.com.ico",
     "slug": "gitlab",
-    "status": "down",
-    "uptime": "28.79%",
-    "uptimeDay": "28.79%",
-    "uptimeWeek": "28.79%",
-    "uptimeMonth": "28.79%",
-    "uptimeYear": "28.79%",
-    "time": 124,
-    "timeDay": 124,
-    "timeWeek": 124,
-    "timeMonth": 124,
-    "timeYear": 124,
+    "status": "up",
+    "uptime": "0.90%",
+    "uptimeDay": "0.90%",
+    "uptimeWeek": "0.90%",
+    "uptimeMonth": "0.90%",
+    "uptimeYear": "0.90%",
+    "time": 420,
+    "timeDay": 420,
+    "timeWeek": 420,
+    "timeMonth": 420,
+    "timeYear": 420,
     "dailyMinutesDown": {
-      "2026-08-10": 0
+      "2026-08-10": 50
     }
   }
 ]
