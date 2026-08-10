@@ -11,7 +11,11 @@ sites:
     url: https://now.sidtrz.com
   - name: WinterWonderland
     url: https://winterwonderland.sidtrz.com
-
+  - name: CDN
+    url: https://cdn.sidtrz.com/public
+  - name: Gitlab
+    url: https://git.sidtrz.com/
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
