@@ -47,12 +47,12 @@
     "url": "https://now.sidtrz.com",
     "icon": "https://icons.duckduckgo.com/ip3/now.sidtrz.com.ico",
     "slug": "now",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "97.55%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.85%",
+    "uptimeDay": "96.89%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.84%",
     "time": 388,
     "timeDay": 470,
     "timeWeek": 222,
@@ -63,7 +63,7 @@
       "2025-11-18": 111,
       "2026-02-04": 388,
       "2026-07-28": 121,
-      "2026-08-26": 35
+      "2026-08-26": 45
     }
   },
   {
@@ -72,11 +72,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/winterwonderland.sidtrz.com.ico",
     "slug": "winter-wonderland",
     "status": "down",
-    "uptime": "88.35%",
-    "uptimeDay": "98.18%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.47%",
-    "uptimeYear": "95.30%",
+    "uptime": "88.34%",
+    "uptimeDay": "94.61%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "95.29%",
     "time": 2352,
     "timeDay": 1071,
     "timeWeek": 431,
@@ -116,7 +116,7 @@
       "2026-07-28": 111,
       "2026-08-07": 64,
       "2026-08-19": 32,
-      "2026-08-26": 26
+      "2026-08-26": 78
     }
   },
   {
